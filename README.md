@@ -1,10 +1,10 @@
 # WishingWall
 vue+nodejs+mysql实现许愿墙
-##目录说明：
+## 目录说明：
 （1）wish为游客模块许愿墙展示
 （2）wish-admin为后台管理模块前端
 （3）wish-admin-api为后台管理模块后端接口
-##项目描述
+## 项目描述
 • 采用技术：
 游客模块 Node.js+Express+art-template+MySQL
 管理员模块 Node.js+Express+Vue.js+MySQL
